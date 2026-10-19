@@ -1,0 +1,4 @@
+.env
+finance_bot.db
+*.xlsx
+__pycache__/
