@@ -1,0 +1,8 @@
+.env
+finance_bot.db
+*.xlsx
+__pycache__/
+.venv/
+.vscode/
+logs/
+*.log
